@@ -1,4 +1,4 @@
-<video src="https://github.com/mhenriquers/mhenriquers/raw/refs/heads/main/0213.mp4" width="100%" autoplay loop muted playsinline></video>
+![Banner](0213.gif)
 
 ## About me
 
