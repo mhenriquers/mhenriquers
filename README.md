@@ -21,7 +21,7 @@ Hello Word! I'm Matheus Henrique
 - 🎯 Mission: Build secure and impactful projects that combine technology, data science, and mobile innovation
 
 
-## Tech Arsenal
+## ⚔️ Tech Arsenal
 
 ### Language & Frameworks
 
@@ -29,8 +29,15 @@ Hello Word! I'm Matheus Henrique
 ![HTML](html.svg)
 ![CSS3](css3.svg)
 ![React](React.svg)
+![Postgree](postgresql.svg)
 
-teste
+### Tools & Plataforms
+![Git](git.svg)
+![GitHub](gitHub.svg)
+![Bootstrap](bootstrap.svg)
+
+continua...
+
 
 
 
