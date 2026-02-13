@@ -29,7 +29,7 @@ Hello Word! I'm Matheus Henrique
 ![HTML](html.svg)
 ![CSS3](css3.svg)
 ![React](React.svg)
-![Postgree](postgresql.svg)
+<!-- ![Postgree](postgresql.svg)-->
 
 ### Tools & Plataforms
 ![Git](git.svg)
