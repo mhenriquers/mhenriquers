@@ -1,8 +1,7 @@
-
-
+<h1  align="center">
 
 # Hello Word! I'm Matheus Henrique
-
+<h/1>
 ![Banner](Banner.gif)
 
 ---
