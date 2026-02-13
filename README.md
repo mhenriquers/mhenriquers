@@ -11,11 +11,11 @@ Hello Word! I'm Matheus Henrique
 
 - 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
-💀🔪 Served 8 years as a Corporal in the Brazilian Army 
+- 💀🔪 Served 8 years as a Corporal in the Brazilian Army 
 
-<hr style="height:2px; border:none; color:#333; background-color:#333;">
+<p style="background-color: rgba(30, 24, 30, 0.3);">
     *learned discipline, focus, and responsibility*
-</hr>
+</p>
 
 💻 Systems Analysis and Development Student (5th Semester) → transitioning into Software Development & InfoSec
 
