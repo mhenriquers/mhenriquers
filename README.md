@@ -9,10 +9,10 @@ Hello Word! I'm Matheus Henrique
 
 ## 👤 Who am I?
 
-🇧🇷 Based in Aparecida de Goiânia, Brazil
+- 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
-💀🔪 Served 8 years as a Corporal in the Brazilian Army 
->*learned discipline, focus, and responsibility*
+- 💀🔪 Served 8 years as a Corporal in the Brazilian Army 
+  - *learned discipline, focus, and responsibility*
 
 
 💻 Systems Analysis and Development Student (5th Semester) → transitioning into Software Development & InfoSec
