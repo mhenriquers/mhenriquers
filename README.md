@@ -40,10 +40,8 @@ colocar icones em cada linha (quebra de linha)
 ### Tools & Plataforms
 
 
-![Git](git.svg)
-
-![GitHub](gitHub.svg)
-
+![Git](git.svg)  
+![GitHub](gitHub.svg)  
 ![Bootstrap](bootstrap.svg)
 
 continua...
