@@ -25,7 +25,7 @@ Hello Word! I'm Matheus Henrique
 
 ### Language & Frameworks
 
-![JavaScript](javaScript.svg)
+![JavaScript](javaScript.svg)  
 ![Python](python.svg)  
 ![HTML](html.svg)  
 ![CSS3](css3.svg)  
