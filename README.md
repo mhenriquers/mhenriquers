@@ -24,13 +24,13 @@ Hello Word! I'm Matheus Henrique
 ## ⚔️ Tech Arsenal
 
 ### Language & Frameworks
-<div>
+
 ![Python](python.svg)  
 ![HTML](html.svg)  
 ![CSS3](css3.svg)  
 ![React](React.svg)  
 ![Postgree](postgresql.svg)  
-</div>
+
 
 
 <!-- editar icone postgree ok 
