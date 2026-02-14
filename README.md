@@ -49,13 +49,17 @@ colocar icones em cada linha (quebra de linha)
 ![vsCde](vscode.svg)  
 ---
 
-### Projects that define me
+## Projects that define me
 
-[Counters](https://github.com/mhenriquers/Counters).  
+[Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase. 
 ---
 
 ### 🌐Conect with me
-
+[![Gmail](gmail.svg)](mailto:matheushenriqueowdail@gmail.com)
+[![GitHub](gitHubctt.svg)] (https://github.com/mhenriquers)
+[![LinkedIn](linkedIn.svg)](https://www.linkedin.com/in/matheus-henrique-68662534b/)
+[![instagram](instagram.svg)](https://www.instagram.com/mhenrique24/)
+[![whatsapp](whatsapp.svg)](https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=0)
 
 
 continua...
