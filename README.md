@@ -60,19 +60,19 @@ colocar icones em cada linha (quebra de linha)
 
 <div align="center">
 <a href="mailto:matheushenriqueowdail@gmail.com" target="_blank">
-    <img src="gmail.svg" alt="Gmail" width="100">
+    <img src="gmail.svg" alt="Gmail" width="100" height="50">
 </a>
 
 <a href="https://github.com/mhenriquers" target="_blank">
-    <img src="gitHubctt.svg" alt="GitHub" width="100">
+    <img src="gitHubctt.svg" alt="GitHub" width="100" height="50">
 </a>
 
 <a href="https://www.instagram.com/mhenrique24/" target="_blank">
-    <img src="instagram.svg" alt="Instagram" width="100">
+    <img src="instagram.svg" alt="Instagram" width="100" height="50">
 </a>
 
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
-    <img src="whatsapp.svg" alt="WhatsApp" width="100">
+    <img src="whatsapp.svg" alt="WhatsApp" width="100" height="50">
 </a>
 
 
