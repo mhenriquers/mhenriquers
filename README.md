@@ -79,7 +79,7 @@ colocar icones em cada linha (quebra de linha)
 <hr style="he ight: 2px; border: none; background-color: #007BFF;">
 
 
-## Final Note
+## ⚡ Final Note
 
 >*Resilience, discipline, and a mission-oriented mindset — these are the pillars I bring from my military service. Today, I translate this commitment into building high-quality, precise, and secure code.*
 
@@ -87,41 +87,3 @@ colocar icones em cada linha (quebra de linha)
 <div align="center">
     <img src="meme.png">
 </div>
-
-
-
-
-
-
-<!---
-
-[![Gmail](gmail.svg)](mailto:matheushenriqueowdail@gmail.com)
-[![GitHub](gitHubctt.svg)](https://github.com/mhenriquers)
-[![LinkedIn](linkedIn.svg)](https://www.linkedin.com/in/matheus-henrique-68662534b/)
-[![instagram](instagram.svg)](https://www.instagram.com/mhenrique24/)
-[![whatsapp](whatsapp.svg)](https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=0)
---->
----
-
-
-continua...
-
-
-
-
-
-
-
-
-
-
----
-
-<!--
-
-## About me
-
-I am a Systems Analysis and Development student, currently in my 5th semester, with hands-on experience in Python, HTML, CSS, PostgreSQL, and UML modeling. I have intermediate English skills and a background as a veteran of the Brazilian Army, which has instilled in me a high level of discipline, focus, and responsibility. I am actively seeking internship opportunities in the tech industry where I can apply my technical knowledge to practical and challenging environments.
-
-
--->
