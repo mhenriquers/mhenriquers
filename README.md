@@ -44,6 +44,20 @@ colocar icones em cada linha (quebra de linha)
 ![GitHub](gitHub.svg)  
 ![Bootstrap](bootstrap.svg)
 
+
+### IDEs & Workflow
+![vsCde](vscode.svg)  
+---
+
+### Projects that define me
+
+[Counters](https://github.com/mhenriquers/Counters).  
+---
+
+### 🌐Conect with me
+
+
+
 continua...
 
 
