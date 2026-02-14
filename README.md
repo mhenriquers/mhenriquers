@@ -63,7 +63,7 @@ colocar icones em cada linha (quebra de linha)
     <img src="gmail.svg" alt="Gmail" width="100" height="50"></a>
 
 <a href="https://github.com/mhenriquers" target="_blank">
-    <img src="gitHubctt.svg" alt="GitHub" width="100" height="50"></a>
+    <img src="gitHubctt.svg" alt="GitHub" height="50"></a>
 
 <a href="https://www.instagram.com/mhenrique24/" target="_blank">
     <img src="instagram.svg" alt="Instagram" width="100" height="50"></a>
