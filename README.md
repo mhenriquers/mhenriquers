@@ -25,15 +25,35 @@ Hello Word! I'm Matheus Henrique
 
 ### Language & Frameworks
 
-![Python](python.svg)
+![Python](python.svg) 
+
+
 ![HTML](html.svg)
+
+
 ![CSS3](css3.svg)
+
+
 ![React](React.svg)
-<!-- ![Postgree](postgresql.svg)-->
+
+
+![Postgree](postgresql.svg)
+
+
+
+<!-- editar icone postgree ok 
+colocar icones em cada linha (quebra de linha)
+-->
 
 ### Tools & Plataforms
+
+
 ![Git](git.svg)
+
+
 ![GitHub](gitHub.svg)
+
+
 ![Bootstrap](bootstrap.svg)
 
 continua...
