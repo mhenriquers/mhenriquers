@@ -27,15 +27,11 @@ Hello Word! I'm Matheus Henrique
 
 ![Python](python.svg) 
 
-
 ![HTML](html.svg)
-
 
 ![CSS3](css3.svg)
 
-
 ![React](React.svg)
-
 
 ![Postgree](postgresql.svg)
 
@@ -50,9 +46,7 @@ colocar icones em cada linha (quebra de linha)
 
 ![Git](git.svg)
 
-
 ![GitHub](gitHub.svg)
-
 
 ![Bootstrap](bootstrap.svg)
 
