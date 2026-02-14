@@ -46,6 +46,7 @@ colocar icones em cada linha (quebra de linha)
 
 
 ### IDEs & Workflow
+
 ![vsCde](vscode.svg)  
 ---
 
@@ -54,12 +55,41 @@ colocar icones em cada linha (quebra de linha)
 [Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase. 
 ---
 
-### 🌐Conect with me
+## 🌐Conect with me
+
+
+<div align="center">
+<a href="mailto:matheushenriqueowdail@gmail.com" target="_blank">
+    <img src="gmail.svg" alt="Gmail" width="50">
+</a>
+
+<a href="https://github.com/mhenriquers" target="_blank">
+    <img src="gitHubctt.svg" alt="GitHub" width="50">
+</a>
+
+<a href="https://www.instagram.com/mhenrique24/" target="_blank">
+    <img src="instagram.svg" alt="Instagram" width="50">
+</a>
+
+<a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
+    <img src="whatsapp.svg" alt="WhatsApp" width="50">
+</a>
+
+
+</div>
+
+
+
+
+<!---
+
 [![Gmail](gmail.svg)](mailto:matheushenriqueowdail@gmail.com)
 [![GitHub](gitHubctt.svg)](https://github.com/mhenriquers)
 [![LinkedIn](linkedIn.svg)](https://www.linkedin.com/in/matheus-henrique-68662534b/)
 [![instagram](instagram.svg)](https://www.instagram.com/mhenrique24/)
 [![whatsapp](whatsapp.svg)](https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=0)
+--->
+---
 
 
 continua...
