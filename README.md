@@ -65,13 +65,13 @@ colocar icones em cada linha (quebra de linha)
     <img src="gmail.svg" alt="Gmail" width="100" height="50"></a>
 
 <a href="https://github.com/mhenriquers" target="_blank">
-    <img src="gitHubctt.svg" alt="GitHub"  width="120"></a>
+    <img src="gitHubctt.svg" alt="GitHub"  width="118"></a>
 
 <a href="https://www.instagram.com/mhenrique24/" target="_blank">
-    <img src="instagram.svg" alt="Instagram" width="100" height="55"></a>
+    <img src="instagram.svg" alt="Instagram" width="120" ></a>
 
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
-    <img src="whatsapp.svg" alt="WhatsApp" width="100" height="55"></a>
+    <img src="whatsapp.svg" alt="WhatsApp" width="120" height="55"></a>
 </div>
 <hr style="height: 2px; border: none; background-color: #007BFF;">
 
