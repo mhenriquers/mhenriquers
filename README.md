@@ -75,7 +75,14 @@ colocar icones em cada linha (quebra de linha)
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
     <img src="whatsapp.svg" alt="WhatsApp" width="130" height="55"></a>
 </div>
-<hr style="height: 2px; border: none; background-color: #007BFF;">
+
+<hr style="he ight: 2px; border: none; background-color: #007BFF;">
+
+
+## Final Note
+
+>*Resilience, discipline, and a mission-oriented mindset — these are the pillars I bring from my military service. Today, I translate this commitment into building high-quality, precise, and secure code.*
+
 
 <div align="center">
     <img src="meme.png">
