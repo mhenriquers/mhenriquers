@@ -47,7 +47,7 @@ colocar icones em cada linha (quebra de linha)
 
 ### IDEs & Workflow
 
-![vsCde](vscode.svg)  
+![vsCode](vscode.svg)  
 ---
 
 ## Projects that define me
@@ -56,7 +56,6 @@ colocar icones em cada linha (quebra de linha)
 ---
 
 ## 🌐Conect with me
-
 
 <div align="center">
 
@@ -71,9 +70,8 @@ colocar icones em cada linha (quebra de linha)
 
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
     <img src="whatsapp.svg" alt="WhatsApp" width="100" height="50"></a>
-
-
 </div>
+--- 
 
 <div align="center">
     <img src="meme.png">
