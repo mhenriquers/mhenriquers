@@ -25,6 +25,7 @@ Hello Word! I'm Matheus Henrique
 
 ### Language & Frameworks
 
+![JavaScript](javaScript.svg)
 ![Python](python.svg)  
 ![HTML](html.svg)  
 ![CSS3](css3.svg)  
@@ -37,7 +38,7 @@ Hello Word! I'm Matheus Henrique
 colocar icones em cada linha (quebra de linha)
 -->
 
-### Tools & Plataforms
+### 🛠 Tools & Plataforms
 
 
 ![Git](git.svg)  
@@ -45,7 +46,7 @@ colocar icones em cada linha (quebra de linha)
 ![Bootstrap](bootstrap.svg)
 
 
-### IDEs & Workflow
+### 💻 IDEs & Workflow
 
 ![vsCode](vscode.svg)  
 ---
