@@ -4,22 +4,20 @@ Hello Word! I'm Matheus Henrique
 
 </h1>
 
-![Banner](Banner.gif)
----
+## ![Banner](Banner.gif)
 
 ## 👤 Who am I?
 
 - 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
-- 💀🔪 Served 8 years as a Corporal in the Brazilian Army in special operations  
-  - *learned discipline, proactivity, focus and responsibility*
+- 💀🔪 Served 8 years as a Corporal in the Brazilian Army in special operations
+  - _learned discipline, proactivity, focus and responsibility_
 
 - 💻 Systems Analysis and Development Student (5th Semester) → transitioning into Software Development & InfoSec
 
 - 🎶 Musician at heart → I apply the resilience learned from music to the structure of my code
 
 - 🎯 Mission: Build secure and impactful projects that combine technology, data science, and mobile innovation
-
 
 ## ⚔️ Tech Arsenal
 
@@ -29,53 +27,53 @@ Hello Word! I'm Matheus Henrique
 ![HTML](html.svg)  
 ![CSS3](css3.svg)  
 ![React](React.svg)  
-![Postgree](postgresql.svg)  
+![Postgree](postgresql.svg)
 
-
-
-<!-- editar icone postgree ok 
+<!-- editar icone postgree ok
 colocar icones em cada linha (quebra de linha)
 -->
 
 ### Tools & Plataforms
 
-
 ![Git](git.svg)  
 ![GitHub](gitHub.svg)  
 ![Bootstrap](bootstrap.svg)
 
-
 ### IDEs & Workflow
 
-![vsCde](vscode.svg)  
----
+## ![vsCde](vscode.svg)
 
 ## Projects that define me
 
-[Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase. 
----
+## [Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 
 ## 🌐Conect with me
 
-
 <div align="center">
+<table>
+<tr>
+<td>
 <a href="mailto:matheushenriqueowdail@gmail.com" target="_blank">
     <img src="gmail.svg" alt="Gmail" width="100" height="50"></a>
+</td>
 
+<td>
 <a href="https://github.com/mhenriquers" target="_blank">
     <img src="gitHubctt.svg" alt="GitHub" height="50"></a>
+</td>
 
+<td>
 <a href="https://www.instagram.com/mhenrique24/" target="_blank">
     <img src="instagram.svg" alt="Instagram" width="100" height="50"></a>
+</td>
 
+<td>
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=" target="_blank">
     <img src="whatsapp.svg" alt="WhatsApp" width="100" height="50"></a>
-
-
+</td>
+</tr>
+</table>
 </div>
-
-
-
 
 <!---
 
@@ -85,19 +83,10 @@ colocar icones em cada linha (quebra de linha)
 [![instagram](instagram.svg)](https://www.instagram.com/mhenrique24/)
 [![whatsapp](whatsapp.svg)](https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=0)
 --->
+
 ---
 
-
 continua...
-
-
-
-
-
-
-
-
-
 
 ---
 
