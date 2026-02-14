@@ -75,8 +75,9 @@ colocar icones em cada linha (quebra de linha)
 
 </div>
 
-
-<img src="meme.png" align="center">
+<div align="center">
+    <img src="meme.png">
+</div>
 ---
 
 
