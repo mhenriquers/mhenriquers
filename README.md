@@ -56,7 +56,7 @@ colocar icones em cada linha (quebra de linha)
 
 ### 🌐Conect with me
 [![Gmail](gmail.svg)](mailto:matheushenriqueowdail@gmail.com)
-[![GitHub](gitHubctt.svg)] (https://github.com/mhenriquers)
+[![GitHub](gitHubctt.svg)](https://github.com/mhenriquers)
 [![LinkedIn](linkedIn.svg)](https://www.linkedin.com/in/matheus-henrique-68662534b/)
 [![instagram](instagram.svg)](https://www.instagram.com/mhenrique24/)
 [![whatsapp](whatsapp.svg)](https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=0)
