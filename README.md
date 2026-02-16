@@ -10,7 +10,7 @@
 
 - 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
-- 💀🔪 Served 8 years as a Corporal in the Brazilian Army in special operations  
+- 💀🔪 Served 8 years as a Corporal in the Brazilian Army in  a Special Operations Battalion 
   - *learned discipline, proactivity, focus and responsibility*
 
 - 💻 Systems Analysis and Development Student (5th Semester) → transitioning into Software Development & InfoSec
