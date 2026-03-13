@@ -62,7 +62,7 @@ colocar icones em cada linha (quebra de linha)
 
 <div align="center">
 
-<a href="mailto:matheushenriqueowdail@gmail.com" target="_blank">
+<a href="mailto:matheushenriqueowdail@gmail.com" target="_blank" rel="noreferrer">
     <img src="gmail.svg" alt="Gmail" width="100" height="50"></a>
 
 <a href="https://github.com/mhenriquers" target="_blank">
