@@ -25,6 +25,7 @@
 ### Language & Frameworks
 
 ![JavaScript](javaScript.svg)  
+![TypeScript](TypeScript.svg)
 ![Python](python.svg)  
 ![HTML](html.svg)  
 ![CSS3](css3.svg)  
