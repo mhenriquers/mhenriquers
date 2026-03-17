@@ -5,6 +5,7 @@
 ## ![Banner](Banner.gif)
 
 ## 👤 Who am I?
+<hr style="he ight: 2px; border: none; background-color: #007BFF;">
 
 - 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
