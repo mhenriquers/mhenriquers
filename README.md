@@ -50,8 +50,11 @@ colocar icones em cada linha (quebra de linha)
 ---
 
 <div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers)
+
 </div>
+
 ## 🌐Conect with me
 
 <div align="center">
