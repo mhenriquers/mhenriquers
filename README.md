@@ -53,7 +53,7 @@ colocar icones em cada linha (quebra de linha)
 ## Commits
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers&show_icons=true&bg_color=00000000)
 
 </div>
 
