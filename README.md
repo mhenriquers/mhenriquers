@@ -48,8 +48,10 @@ colocar icones em cada linha (quebra de linha)
 
 [Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 ---
-![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers)
 
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers)
+</div>
 ## 🌐Conect with me
 
 <div align="center">
