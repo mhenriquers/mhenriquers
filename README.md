@@ -42,7 +42,7 @@ colocar icones em cada linha (quebra de linha)
 
 ### 💻 IDEs & Workflow
 
-	![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 Project that define me
 
