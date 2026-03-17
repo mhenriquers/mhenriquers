@@ -47,7 +47,7 @@ colocar icones em cada linha (quebra de linha)
 ## 🏆 Project that define me
 
 [Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
----
+
 
 
 ## Commits
