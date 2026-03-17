@@ -58,6 +58,8 @@ colocar icones em cada linha (quebra de linha)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers&show_icons=true&theme=transparent&background=00000000)
 
+![Profile views](https://komarev.com/ghpvc/?username=mhenriquers)
+
 </div>
 
 ## 🌐Conect with me
