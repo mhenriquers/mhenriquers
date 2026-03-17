@@ -48,7 +48,7 @@ colocar icones em cada linha (quebra de linha)
 
 ## ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🏆 Project that define me
+## 🏆 Project that defines me
 
 [Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 
