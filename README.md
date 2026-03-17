@@ -5,7 +5,6 @@
 ## ![Banner](Banner.gif)
 
 ## 👤 Who am I?
-<hr style="he ight: 2px; border: none; background-color: #007BFF;">
 
 - 🇧🇷 Based in Aparecida de Goiânia, Brazil
 
@@ -30,7 +29,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+---
 <!-- editar icone postgree ok
 colocar icones em cada linha (quebra de linha)
 -->
@@ -68,9 +67,9 @@ colocar icones em cada linha (quebra de linha)
 <a href="https://api.whatsapp.com/send/?phone=5562995519883&text&type=phone_number&app_absent=">
     <img src="whatsapp.svg" alt="WhatsApp" width="130" height="55"></a>
 </div>
-
+<!--
 <hr style="he ight: 2px; border: none; background-color: #007BFF;">
-
+-->
 ## ⚡ Final Note
 
 > _Resilience, discipline, and a mission-oriented mindset — these are the pillars I bring from my military service. Today, I translate this commitment into building high-quality, precise, and secure code._
