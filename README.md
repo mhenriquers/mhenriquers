@@ -55,7 +55,9 @@ colocar icones em cada linha (quebra de linha)
 ## Commits
 
 <div align="center">
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers&show_icons=true&theme=transparent&background=00000000)
+
 </div>
 
 ## 🌐Conect with me
