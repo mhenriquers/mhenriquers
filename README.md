@@ -29,7 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=flat&logo=postgresql&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
----
+
 
 
 ### 🛠 Tools & Plataforms
@@ -38,18 +38,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mhenriquers)
 ![Bootstrap](https://img.shields.io/badge/-BootStrap-7F00FF?style=flat&logo=bootstrap&labelColor=0000&logoColor=ffffff)
 
----
-
 ### 💻 IDEs & Workflow
 
-## ![Vscode](https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vscode](https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 Project that defines me
 
-[Counters](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
+[![Counters](https://img.shields.io/badge/Counters-000000?style=for-the-badge)](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 
 
-![New](https://img.shields.io/badge/-NEW-6c757d)
+![New](https://img.shields.io/badge/-Cou-6c757d)
 
 ## Commits
 
