@@ -39,7 +39,7 @@ colocar icones em cada linha (quebra de linha)
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhenriquers)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7F00FF?style=for-the-badge&logo=Bootstrap&labelColor=white)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7F00FF?style=for-the-badge&logo=Bootstrap&labelColor=000000)
 
 ---
 
