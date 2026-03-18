@@ -31,21 +31,18 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ---
 
-<!-- editar icone postgree ok
-colocar icones em cada linha (quebra de linha)
--->
 
 ### 🛠 Tools & Plataforms
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mhenriquers)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7F00FF?style=flat&logo=bootstrap&labelColor=0000&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-BootStrap-7F00FF?style=flat&logo=bootstrap&labelColor=0000&logoColor=ffffff)
 
 ---
 
 ### 💻 IDEs & Workflow
 
-## ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## ![Vscode](https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 Project that defines me
 
