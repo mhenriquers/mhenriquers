@@ -38,15 +38,15 @@ colocar icones em cada linha (quebra de linha)
 
 ### 🛠 Tools & Plataforms
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhenriquers)
-![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7F00FF?style=for-the-badge&logo=Bootstrap&labelColor=0000)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mhenriquers)
+![Bootstrap](https://img.shields.io/badge/-BOOTSTRAP-7F00FF?style=for-the-badge&logo=Bootstrap&labelColor=0000&logoColor=FFFF)
 
 ---
 
 ### 💻 IDEs & Workflow
 
-## ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 🏆 Project that defines me
 
