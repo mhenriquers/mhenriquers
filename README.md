@@ -46,7 +46,7 @@
 
 ## 🏆 Project that defines me
 
-[![Counters](https://img.shields.io/badge/Counters-000000?style=flat&labelColor=000000&color=FFD700)](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
+[![Counters](https://img.shields.io/badge/Counters-000000?style=flat&color=FFD700)](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 
 <!--https://img.shields.io/badge/<TEXTO>-<COR_DE_FUNDO>?style=<ESTILO>&labelColor=<COR_DO_LABEL>&color=<COR_DO_TEXTO>&logo=<LOGO>&logoColor=<COR_DO_LOGO>-->
 ## Commits
