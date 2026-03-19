@@ -30,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=flat&logo=postgresql&logoColor=ffffff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+<!--![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)-->
 
 
 
@@ -58,6 +58,14 @@
 
 </div>
 -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="40">
+  <rect width="150" height="40" rx="6" fill="#000000"/>
+  <image href="data:image/png;base64,SEU_BASE64_AQUI" x="8" y="5" height="30" width="30"/>
+  <text x="50" y="26" fill="#FFD700" font-size="16" font-family="Arial" font-weight="bold">
+    Counters
+  </text>
+</svg>
 
 ## 🌐Conect with me
 
