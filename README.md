@@ -48,10 +48,10 @@
 [![Counters](icon.svg)](https://github.com/mhenriquers/Counters) → An interactive counter guide for Mobile Legends: Bang Bang. Developed to help players to choose the best hero during the draft phase.
 
 <!--https://img.shields.io/badge/<TEXTO>-<COR_DE_FUNDO>?style=<ESTILO>&labelColor=<COR_DO_LABEL>&color=<COR_DO_TEXTO>&logo=<LOGO>&logoColor=<COR_DO_LOGO>-->
-
+<!--
 ## Commits
 
-<!--
+
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mhenriquers&show_icons=true&theme=transparent&background=00000000)
